@@ -28,3 +28,17 @@ body{
     border-radius: 25px;
     font-weight: 700;
 }
+section{
+    height: 600px;
+    padding-bottom:  200px;
+}
+.intro{
+    width: 100%;
+    background-image: url("images/img-bg.jpg");
+    background-repeat: no-repeat;
+}
+.mid-section{
+    width: 100%;
+    background-image: url("images/img3.jpg");
+    background-repeat: no-repeat;
+}
