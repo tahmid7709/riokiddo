@@ -14,7 +14,7 @@ body{
 }
 .width{
     width: 40%;
-    margin-left: 60px;
+    margin-left: 70px;
     float: left;
     padding: auto;
     }
@@ -54,6 +54,7 @@ section{
 }
 p{
     color: black;
+    text-shadow: 5px 5px  10px gray;
     font-weight: 900;
     padding: 20px 20px 20px 20px;
     
@@ -76,7 +77,7 @@ p{
    width: 17%;
    height: 350px;
    border-radius: 20px;
-   box-shadow: 10px 10px 20px rgb(255, 115, 0);
+   box-shadow: 10px 10px 20px rgb(71, 66, 61);
    margin-right: 30px;
    margin-top: 20px;
    margin-left: 10px;
@@ -89,4 +90,24 @@ padding: 40px 10px 100px 200px;
 .artwork{
     border-bottom:2px solid #c13584;
     height: 400px;
+}
+.review {
+    text-align: center;
+    color: rgb(196, 167, 8);
+    text-shadow: 5px 5px  10px gray;
+
+}
+.review-width{
+    width: 40%;
+    float: left;
+    margin-left: 80px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+    height: 400px;
+}
+.rev-fb{
+    color: #5851db;
+}
+footer{
+    text-align: center;
 }
